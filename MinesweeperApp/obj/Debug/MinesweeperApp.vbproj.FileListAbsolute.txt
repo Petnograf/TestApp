@@ -1,0 +1,11 @@
+C:\Users\Faggot\Desktop\Minesweeper\MinesweeperApp\MinesweeperApp\bin\Debug\MinesweeperApp.exe.config
+C:\Users\Faggot\Desktop\Minesweeper\MinesweeperApp\MinesweeperApp\bin\Debug\MinesweeperApp.exe
+C:\Users\Faggot\Desktop\Minesweeper\MinesweeperApp\MinesweeperApp\bin\Debug\MinesweeperApp.pdb
+C:\Users\Faggot\Desktop\Minesweeper\MinesweeperApp\MinesweeperApp\bin\Debug\MinesweeperApp.xml
+C:\Users\Faggot\Desktop\Minesweeper\MinesweeperApp\MinesweeperApp\obj\Debug\MinesweeperApp.vbprojAssemblyReference.cache
+C:\Users\Faggot\Desktop\Minesweeper\MinesweeperApp\MinesweeperApp\obj\Debug\MinesweeperApp.Resources.resources
+C:\Users\Faggot\Desktop\Minesweeper\MinesweeperApp\MinesweeperApp\obj\Debug\MinesweeperApp.vbproj.GenerateResource.cache
+C:\Users\Faggot\Desktop\Minesweeper\MinesweeperApp\MinesweeperApp\obj\Debug\MinesweeperApp.vbproj.CoreCompileInputs.cache
+C:\Users\Faggot\Desktop\Minesweeper\MinesweeperApp\MinesweeperApp\obj\Debug\MinesweeperApp.exe
+C:\Users\Faggot\Desktop\Minesweeper\MinesweeperApp\MinesweeperApp\obj\Debug\MinesweeperApp.xml
+C:\Users\Faggot\Desktop\Minesweeper\MinesweeperApp\MinesweeperApp\obj\Debug\MinesweeperApp.pdb
