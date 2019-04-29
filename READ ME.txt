@@ -1,0 +1,1 @@
+You can find a My SQL model and a SQL Script file I would be using to create the database.

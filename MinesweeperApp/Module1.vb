@@ -117,5 +117,6 @@
         Next
         Console.ReadLine()
     End Sub
-
+    'I could not figure out the logic for the mine detection, I assume it could be done using a grid class or something in a similar manner
+    'Let me know what you think of the code, since it is my first time using VB. I think my syntaxing could be fine tuned but it was a lot of fun to make this little code
 End Module
